@@ -4,6 +4,9 @@ accountemail="vivek@yahoo.com"
 const accountname="vivek"
 let accountstate
 
+/* don't use var 
+use const and let only */
+
 console.log(accountid);
 console.log(accountno);
 console.log(accountemail);
